@@ -1,0 +1,10 @@
+{
+    "require":{
+        "illuminate/support":"5.0.28"
+    },
+    "autoload":{
+        "psr-4":{
+            "Illuminate\\Support\\":"src/"
+        }
+    }
+}
