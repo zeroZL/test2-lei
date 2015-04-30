@@ -17,3 +17,4 @@ var_dump($user->locla('abc'));
 $user->attributes;
 $user->attributes['r']='s';
 var_dump($user->getAttributes());
+
